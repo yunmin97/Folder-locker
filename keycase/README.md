@@ -4,3 +4,5 @@
 ### usage
 1. put xx.bat file in the directory where the encrypted folder is
 2. double click on xx.bat file and follow the prompts
+### test
+tested and work well(2020-02-11)
